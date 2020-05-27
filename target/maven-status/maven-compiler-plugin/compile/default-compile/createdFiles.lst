@@ -1,0 +1,4 @@
+com/mycompany/blebundlebeacons/EventSender.class
+com/mycompany/blebundlebeacons/Activator.class
+com/mycompany/blebundlebeacons/iBluetoothService.class
+com/mycompany/blebundlebeacons/cBluetoothService.class

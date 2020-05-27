@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1590537048147
+Build-Jdk: 1.8.0_252
+Built-By: java
+Bundle-Activator: com.mycompany.blebundlebeacons.Activator
+Bundle-ManifestVersion: 2
+Bundle-Name: BLEBundleBeacons OSGi Bundle
+Bundle-SymbolicName: com.mycompany.BLEBundleBeacons
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Import-Package: org.osgi.framework;version="[1.6,2)",org.osgi.service.ev
+ ent;version="[1.4,2)",tinyb
+Tool: Bnd-1.50.0
